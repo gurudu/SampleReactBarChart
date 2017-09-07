@@ -1,0 +1,39 @@
+{
+"employees" : [
+                  {
+                  "userId":"Emp A",
+                  "jobTitle":"Front-end Developer",
+                  "firstName":"Romin",
+                  "lastName":"Irani",
+                  "salary":40000
+                  },
+                  {
+                  "userId":"Emp B",
+                  "jobTitle":"Back-end Developer",
+                  "firstName":"Neil",
+                  "lastName":"Muster",
+                  "salary":42000
+                  },
+                  {
+                  "userId":"Emp C",
+                  "jobTitle":"CTO",
+                  "firstName":"Tom",
+                  "lastName":"Hanks",
+                  "salary":50000
+                },
+                {
+                "userId":"Emp D",
+                "jobTitle":"HR",
+                "firstName":"Sebastian",
+                "lastName":"Zug",
+                "salary":45000
+              },
+              {
+              "userId":"Emp E",
+              "jobTitle":"Managing Director",
+              "firstName":"Max",
+              "lastName":"Müller",
+              "salary":58000
+              }
+              ]
+}

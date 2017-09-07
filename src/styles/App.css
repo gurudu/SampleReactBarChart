@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+.App {
+  text-align: center; }
+
+.App-header {
+  background-color: #0080FF;
+  height: 100px;
+  padding: 30px;
+  margin-top: auto;
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: Roboto Slab, sans-serif;
+  color: white; }
+
+.barchart {
+   margin-top: 80px; }
