@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div >
        <h1 className="App-header"> Employees list</h1>
+	   {Hallo}
        <DataComponent />
       </div>
     );
